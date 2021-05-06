@@ -1,1 +1,1 @@
-# crd-crontab
+### An example of Custom Resource Definition
